@@ -1,0 +1,18 @@
+body {
+    width: 70%;
+    margin: 0px auto;
+}
+h1, h2 {
+    font-family: 'Montserrat Alternates', sans-serif;
+    margin: 1.5em 0em 1.5em 0em;;
+}
+h1 {
+    font-size: 32px;
+}
+table, th, tr, td {
+    border: 1px solid black;
+}
+figure {
+    font-style: italic;
+    float: right;
+}
